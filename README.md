@@ -3,11 +3,11 @@ Credit risk poses a classification problem that’s inherently imbalanced. This 
 
 ## Technologies
 Resources included 1 csv file:
-("./Resources/lending_data.csv)
+
+(Resources/lending_data.csv)
 
 
 Tools
-G
 
 Libraries and dependencies:
 import numpy as np
